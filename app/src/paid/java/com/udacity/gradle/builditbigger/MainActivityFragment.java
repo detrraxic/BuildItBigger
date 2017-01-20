@@ -41,6 +41,7 @@ public class MainActivityFragment extends Fragment implements OnTaskCompleted {
                 launchJokeActivity();
             }
         });
+
         return root;
     }
 
